@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Wei Climbs 🧗🏻‍♀️](README.md)
+* [Getting Started](getting-started.md)
+* [My Love of Climbing](my-love-of-climbing.md)
+* [Body Awareness](body-awareness.md)
 
 ## Bouldering Gyms
 
